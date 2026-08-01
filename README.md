@@ -127,3 +127,4 @@ Provide users with an easy-to-use interface for exploring detailed metadata abou
 
 <img width="1164" height="696" alt="Overview" src="https://github.com/user-attachments/assets/a68e43d5-8ee1-40b7-a99e-51ec8d536491" />
 
+<img width="1161" height="700" alt="Single Title View" src="https://github.com/user-attachments/assets/7d168dc5-c2b3-44d0-a884-f22a74181cda" />
